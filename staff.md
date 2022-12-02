@@ -25,7 +25,7 @@ Please direct all requests regarding blocks and bans not to singular users but t
 | -------- |
 | [@alpaka](https://alpaka.social/@alpaka) (general Account)|
 | [@thies](https://alpaka.social/@thies)     | 
-| [@lavalaempchen](https://alpaka.social/@lavalamepchen)|
+| [@lavalaempchen](https://alpaka.social/@lavalaempchen)|
 | [@hastern](https://alpaka.social/@hastern)|
 | [@malte](https://alpaka.social/@malte)
 
