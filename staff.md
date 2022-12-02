@@ -1,6 +1,8 @@
 alpaka.social “staff”
 ===
 
+## [back](index.md)
+
 This is a list of people who moderate and administrate alpaka.social
 
 The purpose of this list is to be transparent towards our users.

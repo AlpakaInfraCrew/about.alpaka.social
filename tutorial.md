@@ -1,5 +1,8 @@
 Kurzanleitung Mastodon
 ===
+
+## [back](index.md)
+
 Mastodon ist eine Social Media Plattform, die aus vielen föderierten einzelnen Instanzen besteht. Es wird häufig auch das Fediverse genannt.
 
 ### Was heißt föderiert

@@ -1,6 +1,8 @@
 List of instances blocked by alpaka.social
 =======
 
+## [back](index.md)
+
 This is a list of Mastodon/GNU Social instances blocked by alpaka.social. If you think an
 instance has been unfairly blocked, please contact us at requests@alpaka.social
 
