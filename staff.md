@@ -18,6 +18,8 @@ Please direct all requests regarding blocks and bans not to singular users but t
 |[@philip](https://alpaka.social/@philip)|
 |[@happydrake](https://alpaka.social/@happydrake)|
 |[@the_ninsch](https://alpaka.social/@the_ninsch)|
+|[@ben](https://alpaka.social/@ben)|
+
 
 # Administrators
 
