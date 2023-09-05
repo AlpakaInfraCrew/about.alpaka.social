@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # alpaka.social
 
 ### [Geblockte Instanzen](blocked_instances.md)
