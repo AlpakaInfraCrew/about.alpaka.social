@@ -29,7 +29,7 @@ Please direct all requests regarding blocks and bans not to singular users but t
 | [@thies](https://alpaka.social/@thies)     | 
 | [@lavalaempchen](https://alpaka.social/@lavalaempchen)|
 | [@hastern](https://alpaka.social/@hastern)|
-| [@malte](https://alpaka.social/@malte)
+| [@m4schini](https://alpaka.social/@m4schini)
 
 
 ## Footnotes
